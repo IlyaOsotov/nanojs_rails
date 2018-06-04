@@ -1,13 +1,13 @@
 # NanojsRails
 
-This Gem is not published in rubygems and not tested. Im working on it
+[nanoJS](https://github.com/vladocar/nanoJS) for Rails assets pipeline.
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'nanojs_rails'
+gem 'nanojs_rails', '~> 0.1.0'
 ```
 
 And then execute:
