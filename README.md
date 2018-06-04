@@ -18,7 +18,16 @@ Or install it yourself as:
 
     $ gem install nanojs_rails
 
+Next add nanoJS to your assets:
+`app/assets/javascripts/application.js`
+
+```javascript
+//= require nanoJS
+```
+
 ## Usage
+
+Read more about usage [here](https://github.com/vladocar/nanoJS)
 
 ## Development
 
